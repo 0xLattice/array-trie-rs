@@ -1,0 +1,9 @@
+[package]
+name = "lattice-array-trie"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+unicode-segmentation = "1.12"
+unicode-normalization = "0.1"
